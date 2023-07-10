@@ -1,0 +1,204 @@
+o,la
+de,de
+e,y
+em,en
+foi,fue
+que,que
+sua,su
+ele,el
+com,con
+como,como
+por,por
+para,para
+teve,tenia
+mas,pero
+ser,ser
+eles,ellos
+a partir de,de
+foram,fueron
+seu,su
+este,este
+ou,o
+ter,tener
+voce,usted
+todos,todo
+um,un
+assim,tan
+sao,son
+ela,ella
+meu,mi
+nos,nosotros
+sido,estado
+nao,no
+me,me
+dito,dijo
+la,hay
+quando,cuando
+seria,lo haria
+mais,mas
+vontade,voluntad
+alguns,algunos
+o que,?que
+tem,tiene
+poderia,podria
+fora,fuera
+entao,entonces
+para cima,hasta
+homem,hombre
+tempo,tiempo
+agora,ahora
+dois,dos
+sobre,a
+estes,estos
+depois,despues de
+pode,puede
+apenas,solo
+outro,otro
+ver,ver
+tal,tal
+fazer,hacer
+grande,gran
+muito,muy
+qualquer,cualquier
+feito,hecho
+nosso,nuestro
+bem,bien
+primeiro,primero
+a maioria,mas
+antes,antes de
+pouco,poco
+se,si mismo
+sem,sin
+proprio,propio
+aqueles,aquellos
+bom,bueno
+poder,poder
+homens,hombres
+lata,lata
+deveria,deberia
+fez,hizo
+onde,donde
+vir,venir
+pessoas,personas
+obrigacao,debe
+dia,dia
+longo,largo
+para baixo,hacia abajo
+mesmo,mismo
+mr,mr
+nunca,nunca
+velho,viejo
+atraves,a traves de
+ainda,todavia
+enquanto,mientras que
+muitos,muchos
+saber,saber
+cada,cada
+vida,vida
+tres,tres
+maneira,forma
+anos,anos
+veio,vino
+rei,rey
+ir,ir
+novamente,otra vez
+aqui,aqui
+de volta,espalda
+novo,nuevo
+contra,contra
+encontrado,encontrado
+dizer,decir
+tambem,tambien
+passado,pasado
+embora,aunque
+cabeca,cabeza
+longe,lejos
+direito,derecho
+mao,mano
+lugar,lugar
+deus,dios
+deve,debera
+pais,pais
+parte,parte
+esquerda,a la izquierda
+olhos,ojos
+em breve,pronto
+tomar,tomar
+somente,solo
+nome,nombre
+sou,soy
+morte,muerte
+mundo,mundo
+nem,ni
+mente,mente
+uma vez,una vez
+entre,entre
+pensamento,pensamiento
+quem,que
+casa,casa
+obter,obtener
+nada,nada
+cem,ciento
+pensar,pensar
+tanto,ambos
+jovem,joven
+porque,porque
+serra,sierra
+deixar,dejar
+imperador,emperador
+caso,caso
+trabalhar,trabajar
+cuja,cuyo
+guerra,guerra
+levou,se
+geral,general
+cidade,ciudad
+estado,estado
+lado,lado
+coisas,cosas
+sempre,siempre
+face,cara
+noite,noche
+menos,menos
+dar,dar
+perguntou,pregunto
+corpo,cuerpo
+parecia,parecia
+quatro,cuatro
+filho,hijo
+inteiro,todo
+chamado,llamado
+contudo,sin embargo
+amar,amor
+colocar,poner
+mil,mil
+maos,manos
+visto,visto
+quase,casi
+olhar,mirar
+pai,padre
+coracao,corazon
+poucos,pocos
+cinco,cinco
+natureza,naturaleza
+encontrar,encontrar
+publico,publico
+vai,va
+romano,romano
+talvez,tal vez
+mulher,mujer
+desde,desde
+bracos,armas
+ouvido,oido
+olhou,miro
+idade,edad
+deu,dio
+por que,?por que
+palavras,palabras
+luz,luz
+melhor,mejor
+final,final
+agua,agua
+vinte,veinte
+ate,hasta
+outros,otros
